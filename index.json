@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "graph_nets",
+  "versions": [
+    {
+      "commit": "adf25162ba21bb0ae176c35483a74fb0c9dff576",
+      "tag": "",
+      "parsed_at": "2026-11-06T07:46:08.506864+00:00"
+    }
+  ]
+}
